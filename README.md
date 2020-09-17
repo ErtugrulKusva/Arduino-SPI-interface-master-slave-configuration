@@ -1,4 +1,4 @@
-# Arduino-Uno-SPI-interface-master-slave-configuration
+# Arduino-Uno-SPI-interface-master-slave-configuration-test
 
 Simple code of arduino spi interface. The code defines one of them as a slave and another one is a master arduino
 
